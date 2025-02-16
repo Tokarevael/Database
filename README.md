@@ -23,7 +23,7 @@ Tasks:
 * If the company is Huawei, then the console should display ""This is a product of Huawei"".  
 * If the company is Xiaomi, then the console should display ""This is a product of Xiaomi"".  
 
-[Open SELECT requests for MySQL](https://docs.google.com/spreadsheets/d/1AlSLpmw8GVrmj8KhVhZoUYnnYlz7MJaY/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+[Open SELECT requests for MySQL](https://github.com/Tokarevael/Database/blob/main/SELECT%20%D0%B2%20MySQL%20(1)%20(1).xlsx)
 
 * Display your user's login, their order numbers and their cost (users and orders tables)  
 * Display all order numbers, product names and their quantity (order_items and products tables)  
@@ -31,7 +31,7 @@ Tasks:
 * Display paid order numbers and the name of all products, regardless of whether the products are mentioned in paid orders (products and order_items_paid tables)  
 * Using a nested query, display the names and cost of products whose product cost is greater than the cost of the product "Samsung Active 5" from the products table  
 
-[Open JOIN requests for MySQL](https://docs.google.com/spreadsheets/d/1GIf_D4NcbxyJ8fVk3A3idMNzwNKAPWW9/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+[Open JOIN requests for MySQL](https://github.com/Tokarevael/Database/blob/main/JOIN%20%D0%B2%20MySQL%20(1)%20(1).xlsx)
 
 For NoSQL Mango DB was used.  
 
@@ -44,4 +44,4 @@ For NoSQL Mango DB was used.
 * Calculate the total number of cards with card_type = VISA  
 * Display all information about cards with names containing the letter r
   
-[Open requests for NoSQL Mango DB Compass](https://docs.google.com/spreadsheets/d/1FwBeNXlqbHnFFRUwqJRZ3N5RpZqiCJ3h/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+[Open requests for NoSQL Mango DB Compass](https://github.com/Tokarevael/Database/blob/main/MangoDB%20(1).xlsx)
